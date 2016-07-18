@@ -5,5 +5,5 @@ A sample telegram bot server in node.js
 
 ```
 npm install
-node .
+node index.js
 ```
